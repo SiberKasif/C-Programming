@@ -14,7 +14,7 @@ int main()
 
     /* We can also use comments multi line comment in one line */
 
-    printf("Something");  // Lets print out "Something" to the screen.
+    printf("Something");  // Say "Something" to the user.
 
     return 0;
 }
