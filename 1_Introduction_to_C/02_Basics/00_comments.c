@@ -12,7 +12,7 @@ int main()
 	 All the comments will be ignored by the compiler.
     */
 
-    /* We can also use comments multi line comment in one line */
+    /* We can also use multi line comment in one line */
 
     printf("Something");  // Say "Something" to the user.
 
