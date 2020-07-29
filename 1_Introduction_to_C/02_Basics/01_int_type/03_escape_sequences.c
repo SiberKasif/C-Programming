@@ -1,3 +1,15 @@
+/**
+ * 
+ * This code aims to show the basics of escape sequences.
+ *
+ * Here the \n is the first escape sequence we introduce
+ * which prints a new line on the screen.
+ * 
+ * @author Mustafa Katipoglu
+ * @version 1.0
+ * @date 2020/07/29
+ */
+
 #include <stdio.h>                 
 
 

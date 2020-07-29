@@ -1,3 +1,13 @@
+/**
+ * 
+ * This code aims to show that we can print unlimited number
+ * of variables inside of the printf function.
+ *
+ * @author Mustafa Katipoglu
+ * @version 1.0
+ * @date 2020/07/29
+ */
+
 #include <stdio.h>                 
 
 

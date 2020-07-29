@@ -1,3 +1,18 @@
+/**
+ * 
+ * This code aims to show the basics of escape sequences.
+ *
+ * Here we print two tabs using escape sequences
+ * in between three formatted integers and a new line feed.
+ * 
+ * Here we include a new line feed at the end 
+ * so that we can print another string at the next line.
+ * 
+ * @author Mustafa Katipoglu
+ * @version 1.0
+ * @date 2020/07/29
+ */
+
 #include <stdio.h>                 
 
 
