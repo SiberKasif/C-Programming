@@ -5,7 +5,7 @@
  Do not try at home! 
  Still quite useless :P
  */
-int get_number(int param){
+int GetNumber(int param){
 	return param;
 }
 
@@ -14,7 +14,7 @@ int main()
 	
     int x;         			// Declaration                 
     	
-    x = get_number(5);		// Assignment
+    x = GetNumber(5);		// Assignment
 
     printf("X is %d", x);
 

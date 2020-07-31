@@ -5,7 +5,7 @@
  Do not try at home! 
  Quite useless function :P
  */
-int get_five(){
+int GetValue(){
 	return 5;
 }
 
@@ -14,7 +14,7 @@ int main()
 	
     int x;         			// Declaration                 
     	
-    x = get_five();			// Assignment
+    x = GetValue();			// Assignment
 
     printf("X is %d", x);
 
