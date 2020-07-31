@@ -15,7 +15,7 @@ int main()
 	
     int x;                              // Variable 'Declaration'.
     
-    x = 5;                              // 'Assignment' of variable x.
+    x = 5;                              // 'Initialization' of variable x.
     
     return 0;                      
 }
