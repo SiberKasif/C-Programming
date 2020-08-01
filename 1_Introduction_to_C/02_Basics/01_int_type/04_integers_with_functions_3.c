@@ -1,22 +1,13 @@
 #include <stdio.h>                 
 
-
-/*
- Return the summation of two numbers.
- */
-int Sum(int param, int param2){
-
-	return param + param2;
+void PrintInt(int param){
+	printf("The Number is %d\n", param);
 }
 
 int main()
 {   
 	
-    int x;         			// Declaration                 
-    	
-    x = Sum(5,7);			// Assignment
-
-    printf("X is %d", x);
+ 	PrintInt(5);	
 
     return 0;                      
 }

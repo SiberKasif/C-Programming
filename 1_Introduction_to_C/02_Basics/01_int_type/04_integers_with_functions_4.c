@@ -1,24 +1,16 @@
 #include <stdio.h>                 
 
-
-int Multiply(int param, int param2){
-	return param * param2;
-}
-
-int Sum(int param, int param2){
-	return param + param2;
+void PrintInt(int param){
+	printf("The Number is %d\n", param);
 }
 
 int main()
 {   
 	
-    int x;         			                 
-    	
-    x = Sum(5,7);			
-    printf("X is %d", x);
-
-    x = Multiply(5,7);
-    printf("\nNew x value is %d", x);
+ 	PrintInt(5);
+ 	PrintInt(6);
+ 	PrintInt(7);
+ 	PrintInt(8);
 
     return 0;                      
 }
