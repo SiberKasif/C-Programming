@@ -4,9 +4,9 @@
 int main()
 {   
 	
-    float x = 5.654321;  
+    float x = 5.654321234;  
 
-    printf("%f", x);
+    printf("%.9f", x);
     
     return 0;                      
 }

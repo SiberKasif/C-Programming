@@ -4,9 +4,9 @@
 int main()
 {   
 	
-    float pi = 3.14159; 
+    float x = 5.654321;  
 
-    printf("%.5f", pi);
+    printf("%.2f", x);
     
     return 0;                      
 }
