@@ -4,9 +4,9 @@
 int main()
 {   
 	
-    double x;                           // Variable 'Declaration'.
+    double x;                      
     
-    x = 5;                              // 'Assignment' of variable x.
+    x = 5.5;                         
     
     printf("%f", x);
 
