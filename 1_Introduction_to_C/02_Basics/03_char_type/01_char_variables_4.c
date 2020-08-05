@@ -4,11 +4,11 @@
 int main()
 {   
 	
-    char x;                               // Variable 'Declaration'.
+    char x;                               
     
-    x = 'A';                              // 'Assignment' of variable x.
+    x = 'A';                              
     
-    x = x + 1;
+    x = x * 2;							  // Overflow!!!!
 
     printf("%c", x);
     printf("\n%d", x);					  // Lets print a char just like an integer

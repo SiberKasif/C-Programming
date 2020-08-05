@@ -1,5 +1,10 @@
 #include <stdio.h>                 
 
+/*
+ * C uses char type to store characters and letters. 
+ * However, the char type is integer type 
+ * because underneath C stores integer numbers instead of characters.
+ */
 
 int main()
 {   
@@ -9,10 +14,6 @@ int main()
     x = 'A';                              // 'Assignment' of variable x.
     
     printf("%c", x);
-
-    // Lets print a char just like an integer
-
-    printf("\n%d", x);
 
     return 0;                      
 }

@@ -1,12 +1,17 @@
 #include <stdio.h>                 
 
+/*
+ * C uses char type to store characters and letters. 
+ * However, the char type is integer type 
+ * because underneath C stores integer numbers instead of characters.
+ */
 
 int main()
 {   
 	
-    char x;                               // Variable 'Declaration'.
+    char x;  
     
-    x = 'A';                              // 'Assignment' of variable x.
+    x = 65;         // A from ASCII table                     
     
     printf("%c", x);
 
